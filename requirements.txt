@@ -1,0 +1,4 @@
+Requirements for the above mentioned project includes:
+Flutter : For FRONTEND
+Figma : For UI
+Firebase: For Backend
