@@ -1,0 +1,226 @@
+{
+  "marketplace": [
+    {
+      "farmer_name": {
+        "english": "Deepak Sharma",
+        "hindi": "दीपक शर्मा"
+      },
+      "shop_name": {
+        "english": "Sharma Organic Mart",
+        "hindi": "शर्मा जैविक बाजार"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Rice",
+        "hindi": "चावल"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "2.2 kilometers",
+        "hindi": "2.2 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Meera Yadav",
+        "hindi": "मीरा यादव"
+      },
+      "shop_name": {
+        "english": "Yadav Agro Mart",
+        "hindi": "यादव कृषि बाजार"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Soybeans",
+        "hindi": "सोयाबीन्स"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "3.5 kilometers",
+        "hindi": "3.5 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Anil Patel",
+        "hindi": "अनिल पटेल"
+      },
+      "shop_name": {
+        "english": "Patel Fresh Mart",
+        "hindi": "पटेल ताजा बाजार"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Tomatoes",
+        "hindi": "टमाटर"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "1.8 kilometers",
+        "hindi": "1.8 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Neha Verma",
+        "hindi": "नेहा वर्मा"
+      },
+      "shop_name": {
+        "english": "Verma Agri Supply",
+        "hindi": "वर्मा कृषि आपूर्ति"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Onions",
+        "hindi": "प्याज"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "2.1 kilometers",
+        "hindi": "2.1 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Vijay Singh",
+        "hindi": "विजय सिंह"
+      },
+      "shop_name": {
+        "english": "Singh Fresh Mart",
+        "hindi": "सिंह ताजा बाजार"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Maize",
+        "hindi": "मक्का"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "1.2 kilometers",
+        "hindi": "1.2 किलोमीटर"
+      }
+     },
+    {
+      "farmer_name": {
+        "english": "Ramesh Kumar",
+        "hindi": "रमेश कुमार"
+      },
+      "shop_name": {
+        "english": "Kumar Agro Mart",
+        "hindi": "कुमार कृषि बाजार"
+      },
+      "location_name": {
+        "english": "Bhopal, Madhya Pradesh, India",
+        "hindi": "भोपाल, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Wheat",
+        "hindi": "गेहूं"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "2 kilometers",
+        "hindi": "2 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Sunita Verma",
+        "hindi": "सुनीता वर्मा"
+      },
+      "shop_name": {
+        "english": "Verma Farms",
+        "hindi": "वर्मा खेत"
+      },
+      "location_name": {
+        "english": "Sehore, Madhya Pradesh, India",
+        "hindi": "सीहोर, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Maize",
+        "hindi": "मक्का"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "15 kilometers",
+        "hindi": "15 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Rajesh Singh",
+        "hindi": "राजेश सिंह"
+      },
+      "shop_name": {
+        "english": "Singh Agro Supply",
+        "hindi": "सिंह कृषि आपूर्ति"
+      },
+      "location_name": {
+        "english": "Hoshangabad, Madhya Pradesh, India",
+        "hindi": "होशंगाबाद, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Potato",
+        "hindi": "आलू"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "10 kilometers",
+        "hindi": "10 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Amita Patel",
+        "hindi": "अमिता पटेल"
+      },
+      "shop_name": {
+        "english": "Patel Fresh Mart",
+        "hindi": "पटेल ताजा बाजार"
+      },
+      "location_name": {
+        "english": "Vidisha, Madhya Pradesh, India",
+        "hindi": "विदिशा, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Wheat",
+        "hindi": "गेहूं"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "5 kilometers",
+        "hindi": "5 किलोमीटर"
+      }
+    },
+    {
+      "farmer_name": {
+        "english": "Sanjay Yadav",
+        "hindi": "संजय यादव"
+      },
+      "shop_name": {
+        "english": "Yadav Agri Store",
+        "hindi": "यादव कृषि स्टोर"
+      },
+      "location_name": {
+        "english": "Raisen, Madhya Pradesh, India",
+        "hindi": "रायसेन, मध्य प्रदेश, भारत"
+      },
+      "item_name": {
+        "english": "Maize",
+        "hindi": "मक्का"
+      },
+      "distance_from_nearby_farmers_areas": {
+        "english": "8 kilometers",
+        "hindi": "8 किलोमीटर"
+      }
+    }
+  ]
+}
+
+    

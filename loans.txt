@@ -1,0 +1,94 @@
+{
+  "loan_schemes": [
+    {
+      "title": {
+        "english": "Kisan Credit Card (KCC)",
+        "hindi": "किसान क्रेडिट कार्ड (केसीसी)"
+      },
+      "description": {
+        "english": "A credit card scheme designed to provide short-term credit to farmers for agricultural and allied activities.",
+        "hindi": "किसानों को कृषि और संबंधित गतिविधियों के लिए अल्पकालिक क्रेडिट प्रदान करने के लिए डिज़ाइन किए गए एक क्रेडिट कार्ड योजना।"
+      },
+      "eligibility": {
+        "english": "Farmers engaged in agriculture and allied activities are eligible for the Kisan Credit Card.",
+        "hindi": "कृषि और संबंधित गतिविधियों में लगे किसान केसीसी के लिए पात्र हैं।"
+      },
+      "loan_amount": {
+        "english": "Loans of up to ₹3 lakhs can be availed under this scheme.",
+        "hindi": "इस योजना के तहत ₹3 लाख तक के ऋण उपलब्ध किए जा सकते हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Pradhan Mantri Mudra Yojana",
+        "hindi": "प्रधानमंत्री मुद्रा योजना"
+      },
+      "description": {
+        "english": "A loan scheme aimed at providing financial support to small and micro-enterprises, including farming-related activities.",
+        "hindi": "एक ऋण योजना, जिसका उद्देश्य छोटे और माइक्रो उद्यमों, इसमें कृषि संबंधित गतिविधियाँ शामिल हैं, को वित्तीय समर्थन प्रदान करना है।"
+      },
+      "eligibility": {
+        "english": "Farmers and entrepreneurs involved in farming-related businesses are eligible for this scheme.",
+        "hindi": "कृषि संबंधित व्यवसायों में शामिल किसान और उद्यमी इस योजना के लिए पात्र हैं।"
+      },
+      "loan_amount": {
+        "english": "Loans ranging from ₹50,000 to ₹10 lakhs can be availed under this scheme.",
+        "hindi": "इस योजना के तहत ₹50,000 से ₹10 लाख तक के ऋण उपलब्ध किए जा सकते हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Agricultural Term Loans",
+        "hindi": "कृषि मुद्रा ऋण"
+      },
+      "description": {
+        "english": "Long-term loans designed to support agricultural activities, including land purchase, equipment acquisition, and farm development.",
+        "hindi": "कृषि गतिविधियों का समर्थन करने के लिए डिज़ाइन किए गए दीर्घकालिक ऋण, जिसमें भूमि खरीद, उपकरण प्राप्ति और खेत विकास शामिल हैं।"
+      },
+      "eligibility": {
+        "english": "Farmers and agricultural entrepreneurs seeking long-term financial assistance are eligible for agricultural term loans.",
+        "hindi": "दीर्घकालिक वित्तीय सहायता चाहने वाले किसान और कृषि उद्यमी कृषि मुद्रा ऋण के लिए पात्र हैं।"
+      },
+      "loan_amount": {
+        "english": "Loan amounts can vary depending on the specific project and financial requirements of the farmer or entrepreneur.",
+        "hindi": "ऋण राशियां विशिष्ट परियोजना और किसान या उद्यमी की वित्तीय आवश्यकताओं के आधार पर भिन्न हो सकती हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "National Bank for Agriculture and Rural Development (NABARD) Loans",
+        "hindi": "कृषि और ग्रामीण विकास के लिए राष्ट्रीय बैंक (नाबार्ड) ऋण"
+      },
+      "description": {
+        "english": "Loans provided by NABARD to support agricultural and rural development projects, including the promotion of agribusiness and allied activities.",
+        "hindi": "नाबार्ड द्वारा प्रदान किए गए ऋण, कृषि और ग्रामीण विकास परियोजनाओं का समर्थन करने के लिए, जिसमें कृषि व्यवसाय और संबंधित गतिविधियों को बढ़ावा देना शामिल है।"
+      },
+      "eligibility": {
+        "english": "Farmers, self-help groups, and rural development projects are eligible for NABARD loans.",
+        "hindi": "किसान, स्व-सहायता समूह और ग्रामीण विकास परियोजनाएँ नाबार्ड के ऋण के लिए पात्र हैं।"
+      },
+      "loan_amount": {
+        "english": "Loan amounts vary based on the specific project and financial requirements.",
+        "hindi": "ऋण विशिष्ट परियोजना की आवश्यकताओं और वित्तीय व्यवस्था के आधार पर भिन्न होती हैं।"
+    },
+    {
+      "title": {
+        "english": "Pradhan Mantri Kisan Sampada Yojana",
+        "hindi": "प्रधानमंत्री किसान सम्पदा योजना"
+      },
+      "description": {
+    "english": "A scheme that provides financial support for modernizing and upgrading food processing units, benefiting farmers involved in food production.",
+    "hindi": "एक योजना जो खाद्य प्रसंस्करण इकाइयों को आधुनिकीकरण और उन्नति के लिए वित्तीय समर्थन प्रदान करती है, खाद्य उत्पादन में शामिल किसानों को लाभ पहुंचाती है।"
+  },
+  "eligibility": {
+    "english": "Farmers and entrepreneurs involved in food processing and preservation are eligible for this scheme.",
+    "hindi": "खाद्य प्रसंस्करण और संरक्षण में शामिल किसान और उद्यमी इस योजना के लिए पात्र हैं।"
+  },
+  "loan_amount": {
+    "english": "Loans are provided based on the specific project requirements and financial feasibility.",
+    "hindi": "ऋण विशिष्ट परियोजना की आवश्यकताओं और वित्तीय व्यवस्था के आधार पर प्रदान किए जाते हैं।"
+    }
+   }
+  ]
+}
+

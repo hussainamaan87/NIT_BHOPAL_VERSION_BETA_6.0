@@ -1,0 +1,75 @@
+{
+  "schemes": [
+    {
+      "title": {
+        "english": "Pradhan Mantri Fasal Bima Yojana",
+        "hindi": "प्रधानमंत्री फसल बीमा योजना"
+      },
+      "description": {
+        "english": "A crop insurance scheme aimed at providing financial support to farmers in case of crop loss due to natural calamities, pests, or diseases.",
+        "hindi": "प्राकृतिक आपदाओं, कीटों या बीमारियों के कारण फसल हानि के मामले में किसानों को वित्तीय सहायता प्रदान करने का उद्देश्य रखने वाली एक फसल बीमा योजना।"
+      },
+      "eligibility": {
+        "english": "All farmers across India are eligible for this scheme.",
+        "hindi": "इस योजना के लिए भारत भर में सभी किसान पात्र हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Pradhan Mantri Kisan Samman Nidhi",
+        "hindi": "प्रधानमंत्री किसान सम्मान निधि"
+      },
+      "description": {
+        "english": "An income support scheme providing financial assistance to small and marginal farmers in the form of direct income transfer.",
+        "hindi": "एक आय समर्थन योजना, जिसमें छोटे और सीमांत किसानों को प्रत्यक्ष आय हस्तांतरण के रूप में वित्तीय सहायता प्रदान की जाती है।"
+      },
+      "eligibility": {
+        "english": "Small and marginal farmers are eligible for this scheme.",
+        "hindi": "इस योजना के लिए छोटे और सीमांत किसान पात्र हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Pradhan Mantri Krishi Sinchayee Yojana",
+        "hindi": "प्रधानमंत्री कृषि सिंचाई योजना"
+      },
+      "description": {
+        "english": "A scheme aimed at improving water-use efficiency and ensuring better access to irrigation facilities for farmers.",
+        "hindi": "किसानों के लिए पानी का उपयोग कुशलता में सुधार करने और खेतकारों को सिंचाई सुविधाओं के बेहतर पहुंच सुनिश्चित करने का उद्देश्य रखने वाली एक योजना।"
+      },
+      "eligibility": {
+        "english": "All farmers across India are eligible for this scheme.",
+        "hindi": "इस योजना के लिए भारत भर में सभी किसान पात्र हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Rashtriya Krishi Vikas Yojana",
+        "hindi": "राष्ट्रीय कृषि विकास योजना"
+      },
+      "description": {
+        "english": "A scheme focused on enhancing the productivity and overall development of agriculture in different states of India.",
+        "hindi": "भारत के विभिन्न राज्यों में कृषि की उत्पादकता और समग्र विकास को बढ़ावा देने पर मुख्य ध्यान केंद्रित एक योजना।"
+      },
+      "eligibility": {
+        "english": "Farmers and agricultural development projects in various states are eligible for this scheme.",
+        "hindi": "विभिन्न राज्यों में किसान और कृषि विकास परियोजनाएँ इस योजना के लिए पात्र हैं।"
+      }
+    },
+    {
+      "title": {
+        "english": "Kisan Credit Card (KCC)",
+        "hindi": "किसान क्रेडिट कार्ड (केसीसी)"
+      },
+      "description": {
+        "english": "A credit card scheme designed to provide short-term credit to farmers for agricultural and allied activities.",
+        "hindi": "एक क्रेडिट कार्ड योजना, जिसका उद्देश्य किसानों को कृषि और संबंधित गतिविधियों के लिए अल्पकालिक क्रेडिट प्रदान करना है।"
+      },
+      "eligibility": {
+        "english": "Farmers engaged in agriculture and allied activities are eligible for the Kisan Credit Card.",
+        "hindi": "कृषि और संबंधित गतिविधियों में लगे किसान केसीसी के लिए पात्र हैं।"
+      }
+    }
+  ]
+}
+
