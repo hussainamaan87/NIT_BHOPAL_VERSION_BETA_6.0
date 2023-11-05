@@ -2,7 +2,7 @@
 
 
 # Problem:
->In rural areas, hardworking small-scale farmers struggle daily to make a living.
+In rural areas, hardworking small-scale farmers struggle daily to make a living.
 
 They lack access to vital market and pricing information, which hampers their ability to earn more, make smart choices, and escape exploitation. 
 
