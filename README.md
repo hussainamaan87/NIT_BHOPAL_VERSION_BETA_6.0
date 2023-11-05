@@ -3,10 +3,14 @@
 
 # Problem:
 >In rural areas, hardworking small-scale farmers struggle daily to make a living.
- They lack access to vital market and pricing information, which hampers their ability to earn more, make smart choices, and escape exploitation. 
->The challenge is clear: these farmers need real-time data and fair access to market insights. 
+
+They lack access to vital market and pricing information, which hampers their ability to earn more, make smart choices, and escape exploitation. 
+
+The challenge is clear: these farmers need real-time data and fair access to market insights. 
+
 They often operate with limited resources, unaware of current market conditions, which results in less profitable crop decisions and unfair pricing. 
->The solution is to provide a platform that levels the playing field, empowering small-scale farmers with the information they need to prosper.
+
+The solution is to provide a platform that levels the playing field, empowering small-scale farmers with the information they need to prosper.
 
 # Our Solution:
 Our proposed solution ’Kisaan Saathi ’ application offers comprehensive information on a wide range of crops, including planting, harvesting, and maintenance details.
